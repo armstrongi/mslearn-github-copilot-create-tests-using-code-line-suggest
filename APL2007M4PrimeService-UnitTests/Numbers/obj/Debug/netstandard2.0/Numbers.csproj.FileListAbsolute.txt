@@ -1,0 +1,11 @@
+/workspaces/mslearn-github-copilot-create-tests-using-code-line-suggest/APL2007M4PrimeService-UnitTests/Numbers/bin/Debug/netstandard2.0/Numbers.deps.json
+/workspaces/mslearn-github-copilot-create-tests-using-code-line-suggest/APL2007M4PrimeService-UnitTests/Numbers/bin/Debug/netstandard2.0/Numbers.dll
+/workspaces/mslearn-github-copilot-create-tests-using-code-line-suggest/APL2007M4PrimeService-UnitTests/Numbers/bin/Debug/netstandard2.0/Numbers.pdb
+/workspaces/mslearn-github-copilot-create-tests-using-code-line-suggest/APL2007M4PrimeService-UnitTests/Numbers/obj/Debug/netstandard2.0/Numbers.csproj.AssemblyReference.cache
+/workspaces/mslearn-github-copilot-create-tests-using-code-line-suggest/APL2007M4PrimeService-UnitTests/Numbers/obj/Debug/netstandard2.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/mslearn-github-copilot-create-tests-using-code-line-suggest/APL2007M4PrimeService-UnitTests/Numbers/obj/Debug/netstandard2.0/Numbers.AssemblyInfoInputs.cache
+/workspaces/mslearn-github-copilot-create-tests-using-code-line-suggest/APL2007M4PrimeService-UnitTests/Numbers/obj/Debug/netstandard2.0/Numbers.AssemblyInfo.cs
+/workspaces/mslearn-github-copilot-create-tests-using-code-line-suggest/APL2007M4PrimeService-UnitTests/Numbers/obj/Debug/netstandard2.0/Numbers.csproj.CoreCompileInputs.cache
+/workspaces/mslearn-github-copilot-create-tests-using-code-line-suggest/APL2007M4PrimeService-UnitTests/Numbers/obj/Debug/netstandard2.0/Numbers.sourcelink.json
+/workspaces/mslearn-github-copilot-create-tests-using-code-line-suggest/APL2007M4PrimeService-UnitTests/Numbers/obj/Debug/netstandard2.0/Numbers.dll
+/workspaces/mslearn-github-copilot-create-tests-using-code-line-suggest/APL2007M4PrimeService-UnitTests/Numbers/obj/Debug/netstandard2.0/Numbers.pdb
